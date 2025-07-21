@@ -62,6 +62,16 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 - A folha de estilos main.css já está vinculada as páginas HTML, mas você pode criar outras folhas de estilos se necessário.
   - Não é necessário utilizar as fontes, paleta de cores em main.css pode utilizar sua criatividade para criar uma UI agradável.
 
+## Imagens do FRONT
+
+![Texto Alternativo](https://github.com/GuilhermeCanina/avaliacao-front-end-apis-2025/blob/37405c611765a61bbd3cd0c99f39ac2df41370e3/Captura%20Login.png)
+
+![Texto Alternativo](https://github.com/GuilhermeCanina/avaliacao-front-end-apis-2025/blob/37405c611765a61bbd3cd0c99f39ac2df41370e3/Captura%20de%20tela%20inicial.png)
+
+![Texto Alternativo](https://github.com/GuilhermeCanina/avaliacao-front-end-apis-2025/blob/37405c611765a61bbd3cd0c99f39ac2df41370e3/Captura%20de%20tela%20pesquisa.png)
+
+![Texto Alternativo](https://github.com/GuilhermeCanina/avaliacao-front-end-apis-2025/blob/1b0c2b49313b565c5bd62b7fad2679bb47547054/Captura%20de%20tela%20detalhes.png)
+
 ## Avaliação
 
 Serão avaliados os seguintes pontos:
