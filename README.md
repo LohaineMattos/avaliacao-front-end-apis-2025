@@ -63,14 +63,14 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
   - Não é necessário utilizar as fontes, paleta de cores em main.css pode utilizar sua criatividade para criar uma UI agradável.
 
 ## Imagens do FRONT
-
-![Texto Alternativo](https://github.com/GuilhermeCanina/avaliacao-front-end-apis-2025/blob/37405c611765a61bbd3cd0c99f39ac2df41370e3/login.png)
-
-![Texto Alternativo](https://github.com/GuilhermeCanina/avaliacao-front-end-apis-2025/blob/37405c611765a61bbd3cd0c99f39ac2df41370e3/Captura%20de%20tela%20inicial.png)
-
-![Texto Alternativo](https://github.com/GuilhermeCanina/avaliacao-front-end-apis-2025/blob/37405c611765a61bbd3cd0c99f39ac2df41370e3/Captura%20de%20tela%20pesquisa.png)
-
-![Texto Alternativo](https://github.com/GuilhermeCanina/avaliacao-front-end-apis-2025/blob/1b0c2b49313b565c5bd62b7fad2679bb47547054/Captura%20de%20tela%20detalhes.png)
+#### Login
+![Tela de Login](https://github.com/LohaineMattos/avaliacao-front-end-apis-2025/blob/master/login.png?raw=true)
+#### Posts
+![Tela de Posts](https://github.com/LohaineMattos/avaliacao-front-end-apis-2025/blob/master/posts.png?raw=true)
+#### Leitura dos Cards
+![Tela para ler card](https://github.com/LohaineMattos/avaliacao-front-end-apis-2025/blob/master/ampliar.png?raw=true)
+#### Filtragem do Cards
+![Tela para filtragem](https://github.com/LohaineMattos/avaliacao-front-end-apis-2025/blob/master/buscas.png?raw=true)
 
 ## Avaliação
 
